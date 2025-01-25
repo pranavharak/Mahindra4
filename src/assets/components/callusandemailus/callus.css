@@ -1,0 +1,31 @@
+.s1{
+    max-width: 1280px;
+    margin: 0 auto;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    align-items: center;
+}
+.s2{
+    display: flex;
+    gap:170px;
+    max-width: 1280px;
+    margin: 0 auto;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    align-items: center;
+}
+.enq{
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    gap: 250px;
+}
+.n1{
+    display: flex;
+}
+.n2{
+    display: flex;
+}
+.n3{
+    display: flex;
+}

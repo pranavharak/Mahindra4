@@ -1,0 +1,99 @@
+.sec{
+    margin: 0 auto;
+    max-width: 1280px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+}
+.sec h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.sec p{
+    font-family: Arial, Helvetica, sans-serif
+}
+.nm{
+    display: flex;
+    gap: 50px;
+    padding: 10px 10px;
+}
+.nm input{
+    font-family: Arial, Helvetica, sans-serif;
+    height: 50px;
+    width: 300px;
+    padding: 5px;
+    font-size: 13pt;
+    border-color: white;
+    background-color: black;
+    color: white;
+}
+.cnt{
+    display: flex;
+    gap: 50px;
+    padding: 10px 10px;
+}
+.cnt input{
+    font-family: Arial, Helvetica, sans-serif;
+    height: 50px;
+    width: 300px;
+    padding: 5px;
+    font-size: 13pt;
+    border-color: white;
+    background-color: black;
+    color: white;
+}
+.vc{
+    display: flex;
+    padding: 10px 10px;
+}
+.vc select{
+    font-family: Arial, Helvetica, sans-serif;
+    height: 60px;
+    width: 680px;
+    padding: 10px;
+    font-size: 13pt;
+    border-color: white;
+    background-color: black;
+    color: white;
+}
+.msg{
+    display: flex;
+    padding: 10px 10px;
+}
+.msg textarea{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 655px;
+    padding: 10px;
+    font-size: 13pt;
+    border-color: white;
+    background-color: black;
+    color: white;
+}
+.ck{
+    display: flex;
+    padding: 10px 10px;    
+    width: 700px;
+    gap: 5px;
+}
+.ck input{
+    height:20px;
+    width: 20px;
+    margin-top: 15px
+}
+.bt{
+    display: flex;
+    padding: 10px 10px;
+    width: 655px;
+}
+.bt button{
+    width: 500px;
+    height: 50px;
+    border-radius: 40px;
+    padding: 10px 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14pt;
+    color: black;
+    background-color: gray;
+}
+.ic{
+    font-size: 16pt;
+}

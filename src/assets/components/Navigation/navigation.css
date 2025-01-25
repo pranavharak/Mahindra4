@@ -1,0 +1,30 @@
+.main_nav{  
+    background-color: black;
+}
+.navi{
+    margin: 0 auto;
+    padding: 5px 15px;
+    display: flex;  
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1280px;
+}
+.navi ul{
+    list-style: none;
+    align-items: center;
+    display: flex;
+    gap: 32px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+}
+.user{
+    color: white;
+}
+.men{
+    color: white;
+}
+.icons{
+    display: flex;
+    gap: 15px;
+}

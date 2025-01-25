@@ -1,0 +1,25 @@
+.section1{
+    margin: 0 auto;
+    align-items: center;
+    color: white;
+
+}
+.container1{
+    margin: 0 auto;
+    align-items: center;
+    justify-items: center;
+    width: 100%;
+}
+.deskimg{
+    width: 100%;
+}
+.heading{
+    position: absolute;
+    top: 300px;
+    left: 80px;
+}
+.heading h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40pt;
+    font-weight: 700;
+}
